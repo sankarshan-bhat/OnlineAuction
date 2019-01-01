@@ -1,4 +1,4 @@
-# OnlineAuction
+# OnlineAuction System
 This is a simple web interface for providing the online auction functionality built using Python web.py framework. 
 
 
